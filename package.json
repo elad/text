@@ -1,0 +1,31 @@
+{
+  "name": "text-cli",
+  "version": "0.0.1",
+  "description": "send text messages",
+  "main": "text.js",
+  "dependencies": {
+    "commander": "^2.8.1",
+    "underscore": "^1.8.3",
+    "twilio": "^2.2.0",
+    "whatsapi": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elad/text.git"
+  },
+  "keywords": [
+    "text",
+    "message",
+    "cli"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elad/text/issues"
+  },
+  "homepage": "https://github.com/elad/text#readme"
+}

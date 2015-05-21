@@ -1,0 +1,13 @@
+{
+  "twilio": {
+    "number": "NUMBER",
+    "accountSID": "ACCOUNT SID",
+    "authToken": "AUTH TOKEN"
+  },
+  "whatsapp": {
+    "ccode": "COUNTRY CODE",
+    "msisdn": "NUMBER",
+    "username": "USERNAME",
+    "password": "PASSWORD"
+  }
+}
